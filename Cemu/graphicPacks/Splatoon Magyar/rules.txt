@@ -1,6 +1,0 @@
-[Definition]
-titleIds = 0005000010176A00,0005000010176900
-name = Splatoon Magyar Forditas
-path = "Splatoon/Magyar Forditas"
-description = HANNA#7579 általi magyar fordítás, cemu verzió
-version = 4
